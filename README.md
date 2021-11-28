@@ -18,6 +18,8 @@ We need to read the image in RBG format and then convert it to a grayscale image
 
 # Task-3: Stock Market Prediction and Forecast using Stacked LSTM
 
+
+
 # Dataset:  https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 
